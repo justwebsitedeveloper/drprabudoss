@@ -1,0 +1,129 @@
+@media only screen and (max-width: 767px)
+{
+    .acclrticons {
+        width: 100%;
+        border-right: 0;
+        border-left: 0 !important;
+    }
+    .aclrtecnts {
+        display: block;
+    }
+    .acclrticons img {
+        left: 0;
+        right: 0;
+        margin: auto;
+    }
+    .acprsstitle {
+        font-size: 18px !important;
+    }
+    .crsbrdr {
+        margin: 10px auto;
+    }
+    .acctcontents {
+        padding-top: 20px;
+        padding-bottom: 20px;
+    }
+    .present_div
+    {
+        margin-bottom: 20px;
+    }
+    .what_to h1 
+    {
+        font-size: 28px;
+        margin-top: 20px;
+        margin-bottom: 20px;
+    }
+    ul.list-style
+{
+    font-size: 16px;
+}   
+.robotic-img {
+
+    height: auto;
+
+}
+.banner-section .carousel-caption
+{
+    left: 40%;
+    width: 50%;
+    top: 30%;
+    padding: 0;
+}
+.banner-section .carousel-caption.banner-center
+{
+    left:10%;
+    width:75%;
+    top:20%;
+}
+.carousel-caption h1 
+{
+    font-size: 18px;
+}
+.carousel-caption h4 
+{
+    font-size: 16px;
+}
+.carousel-inner p
+{
+    display:none;
+}
+}
+@media only screen and (max-width: 991px)
+{
+    li.nav-item {
+        padding: 0px;
+    }
+    #navbarTogglerDemo02
+{
+    background: rgb(51, 51, 51);
+    padding: 10px;
+    color: rgb(255, 255, 255);
+    position: absolute;
+    top: 50px;
+    width: 150px;
+    right: 0;
+    text-align: center;
+}
+#navbarTogglerDemo02  .nav-link {
+   color:#fff;
+}
+#navbarTogglerDemo02 .nav-item.active .nav-link {
+    color: #1db0da;
+}
+.about-heading {
+    font-size: 28px;
+    margin-bottom: 20px;
+    text-align: center;
+}
+.section-timeline
+{
+    display: none;
+}
+.academic_history
+{
+    display: none;
+}
+
+.banner-section .carousel-caption
+{
+    left: 40%;
+    width: 50%;
+    top: 30%;
+    padding: 0;
+}
+.banner-section .carousel-caption.banner-center
+{
+    left:10%;
+    width:75%;
+    
+}
+.carousel-caption h1 
+{
+    font-size: 22px;
+}
+.carousel-caption h4 
+{
+    font-size: 20px;
+}
+    
+}
